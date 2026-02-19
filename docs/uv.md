@@ -5,3 +5,4 @@
 ## UV Commands
 - uv init : Initialize project, gitignore, main.py and pyproject.toml, pyhton-version files
 - uv sync : creates .env and install dependencies
+- uv add  : to add dependencies
