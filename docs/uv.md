@@ -1,3 +1,5 @@
+## Install UV
+
 ## On Powershell
 - irm https://astral.sh/uv/install.ps1 | iex  or pip install uv
 - verify version uv --version
